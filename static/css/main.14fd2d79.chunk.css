@@ -1,0 +1,2 @@
+.App{margin:30px auto auto;width:500px}.Tabs{display:flex;flex-direction:row;justify-content:space-between;margin:20px 0}.Tab{padding:16px 24px;border:1px solid transparent;border-radius:10px;cursor:pointer;transition:all .15s;background-color:#fff}.Tab__selected{border-color:#add8e6}.Tab:hover{background-color:#add8e6}.TabTitle{color:#055}.TabTitle__selected{color:#00f}
+/*# sourceMappingURL=main.14fd2d79.chunk.css.map */
